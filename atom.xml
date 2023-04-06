@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Lucky</title>
+  <title>Young&#39;s Blog</title>
   
-  
+  <subtitle>Hi</subtitle>
   <link href="https://sillysillysilly.github.io/myBlog.github.io/atom.xml" rel="self"/>
   
   <link href="https://sillysillysilly.github.io/myBlog.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://sillysillysilly.github.io/myBlog.github.io/</id>
   
   <author>
-    <name>Young Liu</name>
+    <name>Young</name>
     
   </author>
   
