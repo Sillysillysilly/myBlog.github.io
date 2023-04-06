@@ -20,13 +20,18 @@
     <title>myFirstBlog</title>
     <link href="https://sillysillysilly.github.io/myBlog.github.io/2021/05/29/myFirstBlog/"/>
     <id>https://sillysillysilly.github.io/myBlog.github.io/2021/05/29/myFirstBlog/</id>
-    <published>2021-05-29T08:22:37.000Z</published>
+    <published>2021-05-28T16:22:37.000Z</published>
     <updated>2021-05-31T08:47:09.173Z</updated>
     
-    <content type="html"><![CDATA[<!-- excerpt --><h1 id="个人介绍"><a href="#个人介绍" class="headerlink" title="个人介绍"></a>个人介绍</h1><h2 id="姓名：刘阳"><a href="#姓名：刘阳" class="headerlink" title="姓名：刘阳"></a>姓名：刘阳</h2><h2 id="学校：浙江工业大学"><a href="#学校：浙江工业大学" class="headerlink" title="学校：浙江工业大学"></a>学校：浙江工业大学</h2><p><a href="https://github.com/Sillysillysilly">我的GitHub：Sillysillysilly</a></p>]]></content>
+    <content type="html"><![CDATA[<p>这是一篇自我介绍</p><!-- excerpt --><h1 id="个人介绍"><a href="#个人介绍" class="headerlink" title="个人介绍"></a>个人介绍</h1><h2 id="姓名：刘阳"><a href="#姓名：刘阳" class="headerlink" title="姓名：刘阳"></a>姓名：刘阳</h2><h2 id="学校：浙江工业大学"><a href="#学校：浙江工业大学" class="headerlink" title="学校：浙江工业大学"></a>学校：浙江工业大学</h2><p><a href="https://github.com/Sillysillysilly">我的GitHub：Sillysillysilly</a></p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;这是一篇自我介绍&lt;/p&gt;</summary>
+      
+      
+    <summary type="html">&lt;p&gt;这是一篇自我介绍&lt;/p&gt;
+&lt;!-- excerpt --&gt;
+&lt;h1 id=&quot;个人介绍&quot;&gt;&lt;a href=&quot;#个人介绍&quot; class=&quot;headerlink&quot; title=&quot;个人介绍&quot;&gt;&lt;/a&gt;个人介绍&lt;/h1&gt;&lt;h2 id=&quot;姓名：刘阳&quot;&gt;&lt;a href=&quot;#姓名：刘阳&quot; </summary>
+      
     
     
     
