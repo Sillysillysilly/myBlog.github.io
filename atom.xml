@@ -6,7 +6,7 @@
   <link href="https://sillysillysilly.github.io/myBlog.github.io/atom.xml" rel="self"/>
   
   <link href="https://sillysillysilly.github.io/myBlog.github.io/"/>
-  <updated>2023-04-06T12:32:57.740Z</updated>
+  <updated>2023-04-06T12:54:17.765Z</updated>
   <id>https://sillysillysilly.github.io/myBlog.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://sillysillysilly.github.io/myBlog.github.io/2023/04/06/git%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%BF%9C%E7%A8%8BGitHub%E4%BB%93%E5%BA%93%E9%97%AE%E9%A2%98/"/>
     <id>https://sillysillysilly.github.io/myBlog.github.io/2023/04/06/git%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%BF%9C%E7%A8%8BGitHub%E4%BB%93%E5%BA%93%E9%97%AE%E9%A2%98/</id>
     <published>2023-04-06T10:45:43.000Z</published>
-    <updated>2023-04-06T12:32:57.740Z</updated>
+    <updated>2023-04-06T12:54:17.765Z</updated>
     
     <content type="html"><![CDATA[<h1 id="记录一下2023年4月6日重启博客计划时遇到的git上传问题"><a href="#记录一下2023年4月6日重启博客计划时遇到的git上传问题" class="headerlink" title="记录一下2023年4月6日重启博客计划时遇到的git上传问题"></a>记录一下2023年4月6日重启博客计划时遇到的git上传问题</h1><p>当我尝试使用 <code>hexo d</code> 命令部署博客时，出现以下提示错误，报告我无法连接到远程仓库<br><img src="/myBlog.github.io/2023/04/06/git%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%BF%9C%E7%A8%8BGitHub%E4%BB%93%E5%BA%93%E9%97%AE%E9%A2%98/1.png"><br>用<code>ssh -T</code>命令测试连接出现以下报错<br><img src="/myBlog.github.io/2023/04/06/git%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%BF%9C%E7%A8%8BGitHub%E4%BB%93%E5%BA%93%E9%97%AE%E9%A2%98/2.jpg"><br>遂谷歌之，发现原因并记录解决方案<br>命令为：<code>ssh-keyscan -t rsa github.com &gt;&gt; ~/.ssh/known_hosts</code><br><img src="/myBlog.github.io/2023/04/06/git%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%BF%9C%E7%A8%8BGitHub%E4%BB%93%E5%BA%93%E9%97%AE%E9%A2%98/3.jpg"><br>成功连接，现在可以正常部署</p>]]></content>
     
