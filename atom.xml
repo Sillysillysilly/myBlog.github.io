@@ -3,11 +3,11 @@
   <title>Young&#39;s Blog</title>
   
   <subtitle>Hi</subtitle>
-  <link href="https://sillysillysilly.github.io/myBlog.github.io/atom.xml" rel="self"/>
+  <link href="https://www.luckysmile.xyz/atom.xml" rel="self"/>
   
-  <link href="https://sillysillysilly.github.io/myBlog.github.io/"/>
+  <link href="https://www.luckysmile.xyz/"/>
   <updated>2023-04-06T12:54:17.765Z</updated>
-  <id>https://sillysillysilly.github.io/myBlog.github.io/</id>
+  <id>https://www.luckysmile.xyz/</id>
   
   <author>
     <name>Young</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>git无法连接远程GitHub仓库问题</title>
-    <link href="https://sillysillysilly.github.io/myBlog.github.io/2023/04/06/git%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%BF%9C%E7%A8%8BGitHub%E4%BB%93%E5%BA%93%E9%97%AE%E9%A2%98/"/>
-    <id>https://sillysillysilly.github.io/myBlog.github.io/2023/04/06/git%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%BF%9C%E7%A8%8BGitHub%E4%BB%93%E5%BA%93%E9%97%AE%E9%A2%98/</id>
+    <link href="https://www.luckysmile.xyz/2023/04/06/git%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%BF%9C%E7%A8%8BGitHub%E4%BB%93%E5%BA%93%E9%97%AE%E9%A2%98/"/>
+    <id>https://www.luckysmile.xyz/2023/04/06/git%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%BF%9C%E7%A8%8BGitHub%E4%BB%93%E5%BA%93%E9%97%AE%E9%A2%98/</id>
     <published>2023-04-06T10:45:43.000Z</published>
     <updated>2023-04-06T12:54:17.765Z</updated>
     
@@ -33,21 +33,21 @@
     
     
     
-    <category term="Git" scheme="https://sillysillysilly.github.io/myBlog.github.io/categories/Git/"/>
+    <category term="Git" scheme="https://www.luckysmile.xyz/categories/Git/"/>
     
     
-    <category term="Git" scheme="https://sillysillysilly.github.io/myBlog.github.io/tags/Git/"/>
+    <category term="Git" scheme="https://www.luckysmile.xyz/tags/Git/"/>
     
-    <category term="GitHub" scheme="https://sillysillysilly.github.io/myBlog.github.io/tags/GitHub/"/>
+    <category term="GitHub" scheme="https://www.luckysmile.xyz/tags/GitHub/"/>
     
-    <category term="SSH" scheme="https://sillysillysilly.github.io/myBlog.github.io/tags/SSH/"/>
+    <category term="SSH" scheme="https://www.luckysmile.xyz/tags/SSH/"/>
     
   </entry>
   
   <entry>
     <title>myFirstBlog</title>
-    <link href="https://sillysillysilly.github.io/myBlog.github.io/2021/05/29/myFirstBlog/"/>
-    <id>https://sillysillysilly.github.io/myBlog.github.io/2021/05/29/myFirstBlog/</id>
+    <link href="https://www.luckysmile.xyz/2021/05/29/myFirstBlog/"/>
+    <id>https://www.luckysmile.xyz/2021/05/29/myFirstBlog/</id>
     <published>2021-05-28T16:22:37.000Z</published>
     <updated>2021-05-31T08:47:09.173Z</updated>
     
@@ -63,10 +63,10 @@
     
     
     
-    <category term="introduction" scheme="https://sillysillysilly.github.io/myBlog.github.io/categories/introduction/"/>
+    <category term="introduction" scheme="https://www.luckysmile.xyz/categories/introduction/"/>
     
     
-    <category term="introduction" scheme="https://sillysillysilly.github.io/myBlog.github.io/tags/introduction/"/>
+    <category term="introduction" scheme="https://www.luckysmile.xyz/tags/introduction/"/>
     
   </entry>
   
